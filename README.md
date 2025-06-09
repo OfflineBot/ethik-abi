@@ -1,5 +1,5 @@
 
-Deutsch-Mündlich Lernzettel
+Ethik-Mündlich Lernzettel
 
 ## Download
-<a href="https://github.com/OfflineBot/deutsch-m-ndlich/raw/main/main.pdf" download>Hier</a>.
+<a href="https://github.com/OfflineBot/ethik-abi/raw/main/main.pdf" download>Hier</a>.
